@@ -1,1 +1,1 @@
-# tattoo starter
+Tatto website, using swiper, tailwind, modal-video
