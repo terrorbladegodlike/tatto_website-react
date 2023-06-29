@@ -12,7 +12,7 @@ const NavMobile = () => {
   const {items} = navData;
 
   return (
-    <nav className='w-full h-full flex flex-col overflow-hidden'>
+    <nav className='w-full h-full flex flex-col overflow-hidden justify-around'>
       <ul className='flex flex-col justify-center items-center gap-y-6 py-6 mb-8'>
         {items.map((item, index) => {
           return (
